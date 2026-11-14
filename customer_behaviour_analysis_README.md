@@ -103,7 +103,3 @@ These come from running the queries above on this dataset:
 ## Tools
 
 Python (Pandas) · Google Colab / Jupyter · MySQL · Power BI (DAX)
-
-## Author
-
-**Sathvik Sreedhara** · [LinkedIn](https://www.linkedin.com/in/sathvik-sreedhara-0a37272b6) · [GitHub](https://github.com/Sathvik-sreedhara)
