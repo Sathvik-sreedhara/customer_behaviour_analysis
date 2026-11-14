@@ -1,10 +1,7 @@
 # customer_behaviour_analysis
 Data analytics projects showcasing customer behaviour using python, SQL and PowerBI
 
-Project Overview:
+Customer Shopping Behavior Analysis
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
-
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
-
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+End-to-end analytics project on retail customer data: Python for cleaning and feature engineering, MySQL for business analysis, and Power BI for an interactive KPI dashboard.
+<img width="1427" height="862" alt="image" src="https://github.com/user-attachments/assets/a51cc321-a8dd-4131-94c1-9e94e9645173" />
